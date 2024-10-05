@@ -88,5 +88,9 @@ nav > h3 {
     font-weight: 800;
     font-family: 'Courier New', Courier, monospace;
     background-color: aqua;
-    
+
+}
+strong{
+    font-size: large;
+    font-style: italic;
 }
