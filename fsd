@@ -1,0 +1,23 @@
+[33mcommit ec426b31a5d5553eb5851a144597d9639ca87ec7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Tolieck <tolieck89@gmail.com>
+Date:   Sat Oct 5 14:09:56 2024 +0300
+
+    Added link to another page in the index file
+
+[33mcommit a8ba776f32ca4850df76f84f77c8350cc1f5ffd5[m
+Author: Tolieck <tolieck89@gmail.com>
+Date:   Sat Oct 5 14:04:38 2024 +0300
+
+    Added another page
+
+[33mcommit d36ad9dc1b800d2719e82390cfc983ef15371875[m
+Author: Tolieck <tolieck89@gmail.com>
+Date:   Sat Oct 5 13:52:57 2024 +0300
+
+    Added about page, added link to about page in the index
+
+[33mcommit 2750cc0e64d0381bdd948eeba6db20ed64ea635e[m
+Author: Tolieck <tolieck89@gmail.com>
+Date:   Sat Oct 5 13:06:11 2024 +0300
+
+    second attempt
